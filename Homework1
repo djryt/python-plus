@@ -1,0 +1,7 @@
+dict = {
+"name"="Bob",
+"age" = 10
+}
+x = dict()
+print(x)
+dict[""]
