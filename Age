@@ -1,0 +1,6 @@
+year=int(input("How old are you?" ))
+
+def years_old(old):
+    if old>20:
+        print("It's ok.")
+year(year)
